@@ -1,2 +1,2 @@
-# entry
-Mauricio Apablaza
+# Mauricio Apablaza
+Researcher
